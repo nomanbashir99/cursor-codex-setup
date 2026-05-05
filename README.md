@@ -1,0 +1,48 @@
+# Cursor, Claude Code, and Codex Setup
+
+This repository documents the setup work I completed for Cursor, Claude Code, Codex, and GitHub.
+
+## Tools I Installed
+
+- Cursor IDE `3.2.21`
+- Codex Cursor extension `openai.chatgpt@26.429.30905`
+- GitHub CLI `gh 2.92.0`
+
+I also attempted to add Claude Code in Cursor, but I could not complete the Claude Code setup because it required buying a paid Claude subscription.
+
+Codex CLI was already installed on my machine, and I verified that it was logged in using ChatGPT.
+
+## Steps I Completed
+
+1. I installed Cursor IDE using Homebrew.
+2. I opened Cursor and worked through the extension setup.
+3. I attempted to add Claude Code in Cursor.
+4. I installed the Codex extension in Cursor.
+5. I verified Codex login status with the CLI: `Logged in using ChatGPT`.
+6. I installed GitHub CLI.
+7. I authenticated GitHub CLI with my GitHub account.
+8. I created a public GitHub repository:
+   `https://github.com/nomanbashir99/cursor-codex-setup`
+9. I cloned the repository locally.
+10. I opened the repository in Cursor.
+11. I created this `README.md` file.
+
+## Issues I Ran Into and How I Solved Them
+
+- Cursor was not installed at the start.
+  - I solved this by installing Cursor with `brew install --cask cursor`.
+
+- The Cursor extension marketplace did not work on the first attempt because the network request was blocked.
+  - I solved this by rerunning the extension installation with network permission.
+
+- Claude Code could not be completed in Cursor.
+  - I found out that Claude Code required a paid Claude subscription, so I documented the issue instead of completing that login/setup step.
+
+- GitHub CLI was not installed.
+  - I solved this by installing `gh` with Homebrew.
+
+- GitHub CLI was not logged in.
+  - I solved this by completing the GitHub device login flow and authenticating as `nomanbashir99`.
+
+- The GitHub repository was empty after I created it.
+  - I solved this by cloning it locally and adding this README as the first file.
