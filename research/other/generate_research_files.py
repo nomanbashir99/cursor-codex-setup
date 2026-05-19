@@ -78,6 +78,19 @@ EXPERTS = {
     },
 }
 
+LINKEDIN_POST_SUMMARIES = {
+    "Jason Bay": "The public post frames outbound in 2026 around hard tradeoffs: mass blasting can damage a company's total addressable market, email alone is weaker, and teams need better targeting, stronger value exchange, calls, social touches, and marketing support.",
+    "Florin Tatulea": "The public post argues that AI prospecting should not be generic automation. The useful idea is to combine owned data, product signals, community activity, web intent, and buyer context so outreach is more strategic and relevant.",
+    "Eric Nowoslawski": "The public post positions cold email as a response and conversion channel, not a brand-building channel. The useful takeaway is to measure replies, positive replies, and meetings while keeping unsubscribe and follow-up discipline tight.",
+    "Michel Lieben": "The public post explains a broader GTM workflow where LinkedIn content, thought-leader ads, visitor tracking, Clay routing, AI scoring, enrichment, and omnichannel re-engagement work together instead of treating cold email as a standalone tactic.",
+    "Bill Stathopoulos": "The public snippet points to execution details that affect cold email performance, including send timing, infrastructure, signal-based targeting, AI-assisted outbound, and offer testing. It is useful as a reminder to test operational variables, not just copy.",
+    "Jack Reamer": "The public post argues that warm introductions and relationship mapping can outperform fully cold outreach when a path exists. For the project, this supports adding a warm-path check before enrolling a prospect into a cold sequence.",
+    "Becc Holland": "The public post emphasizes that outbound improves when reps understand the buyer's metrics, industry norms, and problem thresholds. The practical takeaway is to research the buyer's business situation before writing any email or LinkedIn message.",
+    "Tito Bohrt": "The public post warns that AI SDR volume has made buyers less responsive to generic outreach. The useful takeaway is that business acumen, real context, and multi-channel judgment matter more as automated messages become common.",
+    "Guillaume Moubeche": "This public third-party post summarizes lemlist's outbound lesson: optimize cold email for replies, meetings, and pipeline rather than send volume. It supports using personalization and proof inside the outreach itself.",
+    "Michael Maximoff": "The public post points to Belkins benchmark findings across email, LinkedIn, and calls. The useful takeaway is that declining reply rates make omnichannel outreach, sender reputation, and personalization more important.",
+}
+
 VIDEO_RESEARCH_NOTES = {
     "dDM80maP1N0": [
         "Use this as the main outbound pipeline source: it connects account selection, reasons for outreach, sequencing, and meeting conversion.",
@@ -484,6 +497,10 @@ def sources_md(
 def write_linkedin_posts(rows: list[dict[str, str]]) -> None:
     for row in rows:
         author_dir = LINKEDIN_DIR / slug(row["expert"])
+        post_summary = LINKEDIN_POST_SUMMARIES.get(
+            row["expert"],
+            "Summary is not available yet. Review the public source manually before citing.",
+        )
         text = f"""# {row['expert']}: Public LinkedIn Post Source
 
 Source: {row['source_url']}
@@ -496,9 +513,15 @@ Content theme:
 
 {row['content_theme']}
 
-Research use:
+Research notes:
 
-{row['research_note']}
+Post summary: {post_summary}
+
+- {row['research_note']}
+
+Source caveat:
+
+- LinkedIn content was collected from public/indexed pages only, not from a logged-in private scrape.
 """
         write(author_dir / "post.md", text)
 

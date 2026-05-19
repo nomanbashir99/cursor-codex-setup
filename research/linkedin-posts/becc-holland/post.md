@@ -10,6 +10,12 @@ Content theme:
 
 Outbound performance improves when reps deeply understand the buyer's metrics, industry norms, and problem thresholds.
 
-Research use:
+Research notes:
 
-Use this for message research: identify buyer metrics before writing email copy.
+Post summary: The public post emphasizes that outbound improves when reps understand the buyer's metrics, industry norms, and problem thresholds. The practical takeaway is to research the buyer's business situation before writing any email or LinkedIn message.
+
+- Use this for message research: identify buyer metrics before writing email copy.
+
+Source caveat:
+
+- LinkedIn content was collected from public/indexed pages only, not from a logged-in private scrape.

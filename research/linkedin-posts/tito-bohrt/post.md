@@ -10,6 +10,12 @@ Content theme:
 
 AI SDR overload has desensitized buyers; true pipeline now requires business acumen, context, and multi-channel messaging.
 
-Research use:
+Research notes:
 
-Use this as a warning against shallow personalization and volume-led AI outreach.
+Post summary: The public post warns that AI SDR volume has made buyers less responsive to generic outreach. The useful takeaway is that business acumen, real context, and multi-channel judgment matter more as automated messages become common.
+
+- Use this as a warning against shallow personalization and volume-led AI outreach.
+
+Source caveat:
+
+- LinkedIn content was collected from public/indexed pages only, not from a logged-in private scrape.

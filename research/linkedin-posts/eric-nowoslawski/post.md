@@ -10,6 +10,12 @@ Content theme:
 
 Cold email is not brand-building; it should be measured as a response/conversion channel with proper unsubscribe and follow-up discipline.
 
-Research use:
+Research notes:
 
-Use this to separate outbound pipeline KPIs from awareness KPIs.
+Post summary: The public post positions cold email as a response and conversion channel, not a brand-building channel. The useful takeaway is to measure replies, positive replies, and meetings while keeping unsubscribe and follow-up discipline tight.
+
+- Use this to separate outbound pipeline KPIs from awareness KPIs.
+
+Source caveat:
+
+- LinkedIn content was collected from public/indexed pages only, not from a logged-in private scrape.
