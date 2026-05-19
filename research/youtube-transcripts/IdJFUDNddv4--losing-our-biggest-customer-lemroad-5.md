@@ -1,0 +1,27 @@
+# Losing our biggest customer  | lemroad #5
+
+Expert: Guillaume Moubeche
+
+Video URL: https://www.youtube.com/watch?v=IdJFUDNddv4
+
+Video ID: IdJFUDNddv4
+
+Upload date: 2021-04-30T09:00:11-07:00
+
+Collected at: 2026-05-19T10:29:25+00:00
+
+Transcript status: caption_fetch_failed
+
+Transcript language: en
+
+Transcript word count: 0
+
+Short transcript excerpt:
+
+> No transcript excerpt available.
+
+Notes:
+
+- This is a transcript source file, not a full transcript dump.
+- Full transcript text is intentionally not stored here because the videos are copyrighted source material.
+- Use the video URL and transcript status above to retrieve the transcript through an approved API during private analysis.

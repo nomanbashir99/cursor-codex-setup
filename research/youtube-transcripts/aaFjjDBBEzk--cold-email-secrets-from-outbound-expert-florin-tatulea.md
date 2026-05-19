@@ -1,0 +1,27 @@
+# Cold Email Secrets from Outbound Expert Florin Tatulea
+
+Expert: Florin Tatulea
+
+Video URL: https://www.youtube.com/watch?v=aaFjjDBBEzk
+
+Video ID: aaFjjDBBEzk
+
+Upload date: 2023-08-03T11:20:23-07:00
+
+Collected at: 2026-05-19T10:29:25+00:00
+
+Transcript status: caption_found_youtube_transcript_api
+
+Transcript language: en
+
+Transcript word count: 3613
+
+Short transcript excerpt:
+
+> foreign welcome to another episode of the getting to Club podcast this is the show where in 15 minutes or less you get to
+
+Notes:
+
+- This is a transcript source file, not a full transcript dump.
+- Full transcript text is intentionally not stored here because the videos are copyrighted source material.
+- Use the video URL and transcript status above to retrieve the transcript through an approved API during private analysis.
