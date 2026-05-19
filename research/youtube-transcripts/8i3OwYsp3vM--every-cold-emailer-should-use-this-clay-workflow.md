@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: This short workflow video shows how cold email teams can use Clay to automate enrichment and campaign preparation. The useful point is that automation should support better research and routing, while humans still review whether the message is relevant.
+
 - Use this as an automation workflow example.
 - The key takeaway is that automation should enrich and route prospects, while humans still validate relevance and messaging quality.
 - Add this to the AI-assisted workflow section.

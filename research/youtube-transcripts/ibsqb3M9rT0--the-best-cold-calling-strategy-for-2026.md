@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: This video focuses on cold calling strategy for the current outbound environment. The main idea is that calls work better when the opener is relevant, the problem hypothesis is specific, and the rep quickly earns permission to continue instead of launching into a pitch.
+
 - Use this for the phone/call layer of the pipeline.
 - The key takeaway is that cold calls need a fast relevance hook, a clear problem hypothesis, and a direct next-step ask.
 - Add this to the sequence as a call step after email or LinkedIn engagement signals.

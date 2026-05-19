@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Eric Nowoslawski shares a dense set of cold email tactics based on high-volume campaign work. The video is best used as a campaign checklist covering list quality, deliverability, offer testing, personalization, copy length, and how to judge results.
+
 - Use this as a tactical cold email checklist.
 - The useful takeaway is that performance comes from many small details: list quality, relevant triggers, deliverability, concise copy, and clear testing.
 - Add this to the campaign launch checklist.

@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: This video explains intent-based selling and how prospecting improves when outreach is triggered by signals. It is useful for building a lead scoring model around account activity, community engagement, hiring, funding, technology use, or other evidence of need.
+
 - Use this for intent-based prospecting.
 - The key takeaway is to prioritize accounts using buying signals, product/community activity, hiring signals, and public trigger events.
 - Add this to the lead scoring and account prioritization section.

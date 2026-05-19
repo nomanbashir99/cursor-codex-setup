@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Transcript-derived summary is not available because captions could not be retrieved. Based on the title, this is more about customer loss and SaaS learning loops than outbound tactics, so it belongs in supporting materials.
+
 - Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
 - Use it as background on customer loss and SaaS learning loops, not as a primary outbound tactic source.
 - Keep it in supporting materials.

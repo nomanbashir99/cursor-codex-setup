@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Transcript-derived summary is not available because captions could not be retrieved. Based on the title and source metadata, this video is a pointer to Michael Maximoff's argument that cold outreach needs stronger relevance, personalization, and channel strategy.
+
 - Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
 - Use it as a pointer to Michael Maximoff's view that cold outreach needs repair through relevance and channel mix.
 - Pair this with the Belkins benchmark LinkedIn source before citing.

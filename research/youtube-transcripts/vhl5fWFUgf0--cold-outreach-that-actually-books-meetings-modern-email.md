@@ -27,6 +27,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: This video covers how email and LinkedIn can work together to book meetings. The summary for the project is that outreach performs better when prospects see consistent, relevant touches across channels instead of isolated email blasts.
+
 - Use this for combined email and LinkedIn strategy.
 - The key takeaway is that meetings are more likely when outreach uses multiple touchpoints and keeps the message consistent across channels.
 - Add this to the multi-channel sequence section.

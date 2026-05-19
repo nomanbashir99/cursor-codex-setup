@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Michel Lieben ranks Clay features based on practical usefulness. For the project, the summary is that enrichment tools matter only when they improve signal quality, routing, personalization, or speed to launch.
+
 - Use this for Clay-specific enrichment and workflow ideas.
 - The useful takeaway is to rank tools and features by whether they improve signal quality, personalization, or speed to launch.
 - Add this to the technical process map for enrichment.

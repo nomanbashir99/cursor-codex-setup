@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Transcript-derived summary is not available because captions could not be retrieved. Based on the title, this source is more about running discovery calls than cold outreach, so it is best used only if the project covers what happens after a positive reply.
+
 - Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
 - Use it as a discovery-call source pointer, not as a cold email source.
 - Only cite after manual review if the project includes post-reply discovery handling.

@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: This conversation covers cold email from an operator and founder perspective. It connects outbound to company goals, OKRs, learning loops, experimentation, and the need to measure revenue outcomes rather than email activity alone.
+
 - Use this for the operator view of running cold email as a business process.
 - The key takeaway is to connect outbound activity to OKRs, learning loops, and revenue outcomes.
 - Add this to the measurement and management section.

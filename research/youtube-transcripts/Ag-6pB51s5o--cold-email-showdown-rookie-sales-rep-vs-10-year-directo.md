@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: This video compares weaker cold email execution with a more experienced outbound approach. It is useful because it shows how better operators tighten the message, remove fluff, make the buyer context more specific, and ask for a clearer next step.
+
 - Use this to show the difference between weak and strong cold email execution.
 - The key takeaway is that experienced outbound operators make the buyer's context specific, reduce fluff, and ask for a simple next step.
 - Add this to the email QA checklist.

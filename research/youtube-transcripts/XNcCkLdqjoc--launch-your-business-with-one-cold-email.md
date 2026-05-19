@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Transcript-derived summary is not available because captions could not be retrieved. Based on the title, this source is useful as a pointer to Guillaume Moubeche's cold email origin story and lemlist's reply-focused positioning.
+
 - Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
 - Use it as a pointer to Guillaume Moubeche's cold email origin story.
 - Pair this with lemlist/operator sources when discussing reply-focused outbound.

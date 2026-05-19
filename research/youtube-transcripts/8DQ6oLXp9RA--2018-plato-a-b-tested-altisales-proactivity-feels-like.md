@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Transcript-derived summary is not available because captions could not be retrieved. Based on the metadata, this is background on AltiSales, sales leadership, and startup sales operations rather than a primary cold email tactic source.
+
 - Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
 - Use it as background on AltiSales and sales leadership, not as a primary outbound source.
 - Keep it in supporting materials rather than the main project argument.

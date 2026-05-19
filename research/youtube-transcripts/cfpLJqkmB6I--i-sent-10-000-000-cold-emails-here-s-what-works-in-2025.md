@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: This video summarizes lessons from sending millions of cold emails. The main argument is that cold email can still work, but only when teams test segments, offers, copy angles, sending infrastructure, and conversion outcomes instead of relying on a single template.
+
 - Use this for evidence that cold email is still useful when treated as a tested conversion channel.
 - The key takeaway is to test offers, segments, copy angles, and infrastructure instead of assuming one template will work for every market.
 - Add this to the experiment plan and KPI dashboard.

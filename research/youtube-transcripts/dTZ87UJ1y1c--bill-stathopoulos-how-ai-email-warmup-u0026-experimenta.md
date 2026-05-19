@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: This video covers AI, email warmup, and experimentation in cold email. The main lesson is that tools can help, but fundamentals still decide performance: clean targeting, healthy domains, relevant copy, and controlled testing.
+
 - Use this for AI, warmup, and testing considerations.
 - The useful takeaway is that AI and warmup tools do not replace fundamentals: relevant targeting, good domains, sound copy, and controlled experiments.
 - Add this to the deliverability and AI guardrails section.

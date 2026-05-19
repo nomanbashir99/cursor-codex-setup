@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Transcript-derived summary is not available because captions could not be retrieved. Based on the metadata, this is Becc Holland training content on cold emails and should be treated as a supporting source until reviewed.
+
 - Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
 - Use it as a pointer to Becc Holland's cold email training content.
 - Manually review before using exact recommendations.

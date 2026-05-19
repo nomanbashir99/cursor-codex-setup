@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: This video focuses on LinkedIn cold outreach for agencies. It is useful for building the LinkedIn part of the sequence: profile preparation, narrow targeting, connection steps, and messages that feel human rather than automated.
+
 - Use this for LinkedIn cold outreach in agency-style prospecting.
 - The useful takeaway is to warm up the profile, choose a narrow prospect segment, and use connection/message steps that do not feel automated.
 - Add this to the LinkedIn touchpoints in the 14-day cadence.

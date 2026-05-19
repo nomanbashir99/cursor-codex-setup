@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: This playbook discusses how AI is changing outbound and what teams should expect in 2026. The big takeaway is that AI raises the volume of outreach, which makes targeting, data quality, offer relevance, and multi-channel execution more important.
+
 - Use this for the 2026 outbound context section.
 - The key takeaway is that AI increases outbound volume, so quality control, data hygiene, offer clarity, and channel mix become more important.
 - Add this to the risk section: avoid generic AI blasting and protect the total addressable market.

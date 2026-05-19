@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Transcript-derived summary is not available because captions could not be retrieved. Based on the title, this source is about building cold email playbooks with Michael Maximoff and should be paired with Belkins benchmark material for citation.
+
 - Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
 - Use it as a pointer to cold email playbook design with Michael Maximoff.
 - Pair with Belkins benchmark material for source-backed claims.

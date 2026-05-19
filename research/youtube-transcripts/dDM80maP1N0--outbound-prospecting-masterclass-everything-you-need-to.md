@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Jason Bay lays out a full outbound prospecting system for booking meetings in 2026. The video frames outbound as a pipeline process: pick the right accounts, find a real reason to reach out, use multiple touches, handle replies, and measure meetings rather than raw activity.
+
 - Use this as the main outbound pipeline source: it connects account selection, reasons for outreach, sequencing, and meeting conversion.
 - The useful project takeaway is that outbound should be designed as a system with targeting, messaging, follow-up, and performance review, not as one-off cold emails.
 - Add its ideas to the project sections on ICP, sequence design, reply handling, and meeting-booking KPIs.

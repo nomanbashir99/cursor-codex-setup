@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Transcript-derived summary is not available because captions could not be retrieved. Based on the metadata, this is a lemlist growth case study and can support the idea that cold outreach helped create early SaaS traction.
+
 - Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
 - Use it as a SaaS growth case-study pointer for lemlist.
 - Keep the project takeaway high level unless manually reviewed.

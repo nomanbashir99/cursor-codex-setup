@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Bill Stathopoulos discusses the mechanics behind large cold email campaigns. The video is useful as a deep source on campaign infrastructure, targeting, deliverability, offer-market fit, copy testing, and reporting.
+
 - Use this as a deep cold email campaign source.
 - The useful takeaway is that high-performing campaigns depend on infrastructure, targeting, offer-market fit, copy testing, and consistent reporting.
 - Add this to the project as the backbone for the deliverability and experimentation sections.

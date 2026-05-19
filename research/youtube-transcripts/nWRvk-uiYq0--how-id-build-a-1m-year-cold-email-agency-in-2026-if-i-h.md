@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: This video explains how Michel Lieben would rebuild a cold email agency from zero. It is useful for the project because it highlights niche selection, a simple offer, repeatable proof, a clear acquisition workflow, and controlled scaling.
+
 - Use this for building an outbound service or internal outbound engine from zero.
 - The key takeaway is to start with a tight niche, a simple offer, repeatable proof, and a clear acquisition workflow before scaling.
 - Add this to the zero-to-one campaign launch plan.

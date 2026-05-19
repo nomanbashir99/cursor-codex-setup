@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Transcript-derived summary is not available because no caption track was found. Based on the title, this is French-language content about cold mailing from Guillaume Moubeche and should be manually reviewed before use.
+
 - No caption track was found, so this file is metadata-only.
 - Use it as a pointer to Guillaume Moubeche's French-language cold mailing content.
 - Do not use it as a primary source unless reviewed manually.

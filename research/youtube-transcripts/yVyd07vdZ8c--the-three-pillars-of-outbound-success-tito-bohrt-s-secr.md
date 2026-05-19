@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Transcript-derived summary is not available because captions could not be retrieved. Based on the title, the video appears to frame outbound success around a small number of core pillars and should be paired with Tito Bohrt's LinkedIn source before citation.
+
 - Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
 - Use the title/source as a pointer to Tito Bohrt's outbound success framework.
 - Pair this with the collected LinkedIn post for citation-ready evidence on AI SDR noise and business acumen.

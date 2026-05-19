@@ -276,6 +276,48 @@ VIDEO_RESEARCH_NOTES = {
     ],
 }
 
+VIDEO_SUMMARIES = {
+    "dDM80maP1N0": "Jason Bay lays out a full outbound prospecting system for booking meetings in 2026. The video frames outbound as a pipeline process: pick the right accounts, find a real reason to reach out, use multiple touches, handle replies, and measure meetings rather than raw activity.",
+    "ibsqb3M9rT0": "This video focuses on cold calling strategy for the current outbound environment. The main idea is that calls work better when the opener is relevant, the problem hypothesis is specific, and the rep quickly earns permission to continue instead of launching into a pitch.",
+    "m2z1tgfv8Kc": "This is a practical cold calling course for SaaS sales reps. It walks through how to structure a call from opener to qualification to meeting ask, with emphasis on concise language, buyer pain, and objection handling.",
+    "CLH1lfk_DQU": "This playbook discusses how AI is changing outbound and what teams should expect in 2026. The big takeaway is that AI raises the volume of outreach, which makes targeting, data quality, offer relevance, and multi-channel execution more important.",
+    "aaFjjDBBEzk": "Florin Tatulea discusses what makes cold email work from an outbound operator's perspective. The video emphasizes buyer relevance, strong problem framing, simple copy, and avoiding product-heavy messages that do not connect to the prospect's situation.",
+    "YYZUVbMbln8": "This video explains intent-based selling and how prospecting improves when outreach is triggered by signals. It is useful for building a lead scoring model around account activity, community engagement, hiring, funding, technology use, or other evidence of need.",
+    "noRavDnWhr8": "This older but useful interview covers SDR prospecting fundamentals. The discussion centers on consistent execution, strong list quality, personalization, follow-up discipline, and the habits that turn outbound activity into meetings.",
+    "Ag-6pB51s5o": "This video compares weaker cold email execution with a more experienced outbound approach. It is useful because it shows how better operators tighten the message, remove fluff, make the buyer context more specific, and ask for a clearer next step.",
+    "f9NSfp8M1P8": "Eric Nowoslawski shares a dense set of cold email tactics based on high-volume campaign work. The video is best used as a campaign checklist covering list quality, deliverability, offer testing, personalization, copy length, and how to judge results.",
+    "cfpLJqkmB6I": "This video summarizes lessons from sending millions of cold emails. The main argument is that cold email can still work, but only when teams test segments, offers, copy angles, sending infrastructure, and conversion outcomes instead of relying on a single template.",
+    "3THIdISjTkk": "This video is about testing outbound signals with Clay. It shows why a team should validate which intent or enrichment signals predict replies before scaling a campaign, rather than assuming all personalization data is equally useful.",
+    "8i3OwYsp3vM": "This short workflow video shows how cold email teams can use Clay to automate enrichment and campaign preparation. The useful point is that automation should support better research and routing, while humans still review whether the message is relevant.",
+    "8YmzlSHX6vo": "Michel Lieben reviews AI sales tools and how they fit into a modern outbound workflow. The video is useful for mapping where AI can reduce manual work, especially in prospect research, enrichment, list building, personalization, and campaign operations.",
+    "0q23Y0EyM5Y": "This video explains a B2B lead generation strategy from a systems point of view. The core lesson is to start with a narrow ICP, use repeatable sources for finding prospects, and build a workflow that turns qualified accounts into outreach opportunities.",
+    "C9aFa9kNENw": "Michel Lieben ranks Clay features based on practical usefulness. For the project, the summary is that enrichment tools matter only when they improve signal quality, routing, personalization, or speed to launch.",
+    "nWRvk-uiYq0": "This video explains how Michel Lieben would rebuild a cold email agency from zero. It is useful for the project because it highlights niche selection, a simple offer, repeatable proof, a clear acquisition workflow, and controlled scaling.",
+    "u0Fe2l1qBAI": "Bill Stathopoulos discusses the mechanics behind large cold email campaigns. The video is useful as a deep source on campaign infrastructure, targeting, deliverability, offer-market fit, copy testing, and reporting.",
+    "15fX0czKypg": "This conversation covers cold email from an operator and founder perspective. It connects outbound to company goals, OKRs, learning loops, experimentation, and the need to measure revenue outcomes rather than email activity alone.",
+    "dTZ87UJ1y1c": "This video covers AI, email warmup, and experimentation in cold email. The main lesson is that tools can help, but fundamentals still decide performance: clean targeting, healthy domains, relevant copy, and controlled testing.",
+    "XLsAAnNaFOc": "This video compresses years of cold email advice into a practical overview. It is useful as a final checklist source because it reinforces concise copy, strong targeting, credible proof, follow-up, and disciplined testing.",
+    "rXTd1DFoYGI": "Transcript-derived summary is not available because captions were not found. Based on the metadata, this is a Jack Reamer source focused on cold email outreach and should be treated as a pointer until manually reviewed.",
+    "9_Isu6MNlio": "This conversation with Jack Reamer focuses on copywriting for outbound. The practical takeaway is that cold emails should be easy to understand, specific to the buyer, tied to a real business reason, and simple to respond to.",
+    "vhl5fWFUgf0": "This video covers how email and LinkedIn can work together to book meetings. The summary for the project is that outreach performs better when prospects see consistent, relevant touches across channels instead of isolated email blasts.",
+    "k3fCuTaBCcw": "This video focuses on LinkedIn cold outreach for agencies. It is useful for building the LinkedIn part of the sequence: profile preparation, narrow targeting, connection steps, and messages that feel human rather than automated.",
+    "PltwHHbWMVo": "Becc Holland explains how to build outbound around unknown or under-prioritized buyer problems. The key idea is to research the buyer's metrics and situation first, then lead with a problem hypothesis instead of a generic product pitch.",
+    "2yrkpp_uH2M": "Transcript-derived summary is not available because captions could not be retrieved. Based on the title, this source appears to cover common cold email patterns that reduce replies and should be manually reviewed before citing specific examples.",
+    "xvgEXRZ7NRs": "Transcript-derived summary is not available because captions could not be retrieved. Based on the title, this source appears to focus on making cold emails stand out, so it can be used as a pointer for differentiation tactics after manual review.",
+    "VeiQFhr-1Oc": "Transcript-derived summary is not available because captions could not be retrieved. Based on the metadata, this is Becc Holland training content on cold emails and should be treated as a supporting source until reviewed.",
+    "yVyd07vdZ8c": "Transcript-derived summary is not available because captions could not be retrieved. Based on the title, the video appears to frame outbound success around a small number of core pillars and should be paired with Tito Bohrt's LinkedIn source before citation.",
+    "Zxlk5s13ZX0": "Transcript-derived summary is not available because captions could not be retrieved. Based on the title, this source appears to discuss where AI fails in modern sales development, especially when automation replaces judgment and business context.",
+    "0jSdFJDFbxQ": "Transcript-derived summary is not available because captions could not be retrieved. Based on the title, this source is more about running discovery calls than cold outreach, so it is best used only if the project covers what happens after a positive reply.",
+    "8DQ6oLXp9RA": "Transcript-derived summary is not available because captions could not be retrieved. Based on the metadata, this is background on AltiSales, sales leadership, and startup sales operations rather than a primary cold email tactic source.",
+    "XNcCkLdqjoc": "Transcript-derived summary is not available because captions could not be retrieved. Based on the title, this source is useful as a pointer to Guillaume Moubeche's cold email origin story and lemlist's reply-focused positioning.",
+    "1ceYB2XXbDk": "Transcript-derived summary is not available because captions could not be retrieved. Based on the metadata, this is a lemlist growth case study and can support the idea that cold outreach helped create early SaaS traction.",
+    "Sf6nOjQS0fk": "Transcript-derived summary is not available because no caption track was found. Based on the title, this is French-language content about cold mailing from Guillaume Moubeche and should be manually reviewed before use.",
+    "IdJFUDNddv4": "Transcript-derived summary is not available because captions could not be retrieved. Based on the title, this is more about customer loss and SaaS learning loops than outbound tactics, so it belongs in supporting materials.",
+    "4MIBWWzGEKw": "Transcript-derived summary is not available because captions could not be retrieved. Based on the title and source metadata, this video is a pointer to Michael Maximoff's argument that cold outreach needs stronger relevance, personalization, and channel strategy.",
+    "bzTjF7Dhu-I": "Transcript-derived summary is not available because captions could not be retrieved. Based on the title, this source likely covers creative outbound ideas and should be manually reviewed before adding tactics to the playbook.",
+    "EdfXK1Phge8": "Transcript-derived summary is not available because captions could not be retrieved. Based on the title, this source is about building cold email playbooks with Michael Maximoff and should be paired with Belkins benchmark material for citation.",
+}
+
 
 def read_csv(path: Path) -> list[dict[str, str]]:
     with path.open(newline="", encoding="utf-8") as handle:
@@ -503,6 +545,10 @@ def write_youtube_files(
         research_notes = "\n".join(
             f"- {note}" for note in VIDEO_RESEARCH_NOTES.get(video_id, [])
         )
+        video_summary = VIDEO_SUMMARIES.get(
+            video_id,
+            "Summary is not available yet. Review the source manually before citing.",
+        )
         text = f"""# {row['title']}
 
 Associated expert(s): {experts}
@@ -530,6 +576,8 @@ Collection rows:
 {collection_rows}
 
 Research notes:
+
+Video summary: {video_summary}
 
 {research_notes}
 

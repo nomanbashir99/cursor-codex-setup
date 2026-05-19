@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Transcript-derived summary is not available because captions could not be retrieved. Based on the title, this source appears to cover common cold email patterns that reduce replies and should be manually reviewed before citing specific examples.
+
 - Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
 - Use the source as a pointer for common cold email mistakes and pattern-breaking ideas.
 - Manually review before adding exact examples to the project.

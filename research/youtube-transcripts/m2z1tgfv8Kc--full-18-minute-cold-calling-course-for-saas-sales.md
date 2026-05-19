@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: This is a practical cold calling course for SaaS sales reps. It walks through how to structure a call from opener to qualification to meeting ask, with emphasis on concise language, buyer pain, and objection handling.
+
 - Use this as a practical SaaS SDR script source.
 - The useful takeaway is to structure calls around persona pain, a short opener, qualification, objection handling, and meeting conversion.
 - Add this to the project as a sample call script and talk track.

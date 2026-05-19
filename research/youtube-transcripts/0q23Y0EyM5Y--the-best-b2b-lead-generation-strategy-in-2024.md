@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: This video explains a B2B lead generation strategy from a systems point of view. The core lesson is to start with a narrow ICP, use repeatable sources for finding prospects, and build a workflow that turns qualified accounts into outreach opportunities.
+
 - Use this for lead generation strategy.
 - The key takeaway is that B2B lead generation should start with a narrow ICP and a repeatable source of relevant prospects.
 - Add this to the list-building and qualification process.

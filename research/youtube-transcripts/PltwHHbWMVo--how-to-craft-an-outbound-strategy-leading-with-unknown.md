@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Becc Holland explains how to build outbound around unknown or under-prioritized buyer problems. The key idea is to research the buyer's metrics and situation first, then lead with a problem hypothesis instead of a generic product pitch.
+
 - Use this for Becc Holland's problem-led messaging approach.
 - The key takeaway is that strong outbound starts with the buyer's unknown or under-prioritized problem, not the seller's product category.
 - Add this to the buyer research template before copywriting.

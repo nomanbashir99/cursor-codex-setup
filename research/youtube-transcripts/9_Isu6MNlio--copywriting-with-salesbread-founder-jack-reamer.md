@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: This conversation with Jack Reamer focuses on copywriting for outbound. The practical takeaway is that cold emails should be easy to understand, specific to the buyer, tied to a real business reason, and simple to respond to.
+
 - Use this for copywriting and personalization principles.
 - The useful takeaway is that cold outreach copy should be specific, easy to answer, and tied to a believable business reason.
 - Add this to the cold email writing checklist.

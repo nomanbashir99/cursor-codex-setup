@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: This video is about testing outbound signals with Clay. It shows why a team should validate which intent or enrichment signals predict replies before scaling a campaign, rather than assuming all personalization data is equally useful.
+
 - Use this for signal testing in Clay or similar tooling.
 - The useful takeaway is to test which intent signals actually predict replies before scaling a campaign.
 - Add this to the data enrichment and scoring workflow.

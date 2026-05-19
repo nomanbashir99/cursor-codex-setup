@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Florin Tatulea discusses what makes cold email work from an outbound operator's perspective. The video emphasizes buyer relevance, strong problem framing, simple copy, and avoiding product-heavy messages that do not connect to the prospect's situation.
+
 - Use this for cold email copy and message relevance.
 - The useful takeaway is that outreach should be built from the buyer's likely business problem, not from a product-feature pitch.
 - Add this to the project as a before/after rewrite framework for cold emails.

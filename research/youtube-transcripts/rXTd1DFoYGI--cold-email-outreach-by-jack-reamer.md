@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Transcript-derived summary is not available because captions were not found. Based on the metadata, this is a Jack Reamer source focused on cold email outreach and should be treated as a pointer until manually reviewed.
+
 - Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
 - Use it only as a source pointer for Jack Reamer's cold email outreach content.
 - If needed, manually review the video before citing specific claims.

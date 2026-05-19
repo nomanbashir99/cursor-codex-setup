@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Transcript-derived summary is not available because captions could not be retrieved. Based on the title, this source appears to discuss where AI fails in modern sales development, especially when automation replaces judgment and business context.
+
 - Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
 - Use the source as a pointer for where AI fails in sales development.
 - Pair this with Tito Bohrt's public LinkedIn source before making claims in the project.

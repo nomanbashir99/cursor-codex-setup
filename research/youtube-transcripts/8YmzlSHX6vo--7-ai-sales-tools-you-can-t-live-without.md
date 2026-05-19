@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Michel Lieben reviews AI sales tools and how they fit into a modern outbound workflow. The video is useful for mapping where AI can reduce manual work, especially in prospect research, enrichment, list building, personalization, and campaign operations.
+
 - Use this for the outbound tech-stack section.
 - The useful takeaway is that AI tools are most valuable when they reduce manual research, enrichment, routing, and campaign setup time.
 - Add this to the recommended tool workflow for finding and preparing prospects.

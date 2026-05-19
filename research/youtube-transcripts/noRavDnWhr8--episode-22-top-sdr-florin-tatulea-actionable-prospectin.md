@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: This older but useful interview covers SDR prospecting fundamentals. The discussion centers on consistent execution, strong list quality, personalization, follow-up discipline, and the habits that turn outbound activity into meetings.
+
 - Use this as a broad prospecting fundamentals source.
 - The useful takeaway is that consistent meeting generation depends on list quality, daily execution, strong personalization, and follow-up discipline.
 - Add this to the operating cadence and SDR workflow section.

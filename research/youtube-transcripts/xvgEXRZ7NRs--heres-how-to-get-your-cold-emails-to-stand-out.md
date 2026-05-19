@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Transcript-derived summary is not available because captions could not be retrieved. Based on the title, this source appears to focus on making cold emails stand out, so it can be used as a pointer for differentiation tactics after manual review.
+
 - Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
 - Use the source as a pointer for making cold email more differentiated.
 - Manually review before citing specific tactics.

@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: This video compresses years of cold email advice into a practical overview. It is useful as a final checklist source because it reinforces concise copy, strong targeting, credible proof, follow-up, and disciplined testing.
+
 - Use this as a compact expert-advice source on cold email.
 - The key takeaway is to combine concise copy, strong targeting, social proof, and disciplined follow-up.
 - Add this to the final best-practices checklist.

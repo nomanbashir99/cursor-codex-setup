@@ -26,6 +26,8 @@ Collection rows:
 
 Research notes:
 
+Video summary: Transcript-derived summary is not available because captions could not be retrieved. Based on the title, this source likely covers creative outbound ideas and should be manually reviewed before adding tactics to the playbook.
+
 - Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
 - Use it as a pointer for creative outbound ideas.
 - Manually review before turning any idea into a playbook step.
