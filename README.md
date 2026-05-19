@@ -2,6 +2,40 @@
 
 This repository documents the setup work I completed for Cursor, Claude Code, Codex, and GitHub.
 
+## B2B SaaS Cold Outreach Research Project
+
+I also used this repository to organize my hiring research project on:
+
+**Cold outreach pipeline for B2B SaaS**
+
+I chose this topic because it is closest to revenue: a strong project can show how to find qualified accounts, build lead lists, write relevant outbound messages, sequence email/LinkedIn/calls, and measure booked meetings or pipeline instead of vanity metrics.
+
+### What I Collected
+
+- [research/sources.md](research/sources.md) - source index for 10 cold outreach experts, with links, dates, practitioner proof, and short annotations.
+- [research/linkedin-posts/](research/linkedin-posts/) - public LinkedIn post notes organized by author.
+- [research/youtube-transcripts/](research/youtube-transcripts/) - YouTube transcript source files organized by video ID. These include video links, upload dates, transcript availability, word counts, and short excerpts.
+- [research/other/](research/other/) - raw source CSVs, collection methodology, upload-date cache, and synthesis notes.
+
+Full YouTube transcripts are not stored in this repo because the videos are copyrighted source material. The repo keeps source links and transcript metadata so the research can be verified and expanded through approved tools.
+
+### Why These Experts
+
+The experts were selected because they are practitioners, not just commentators. They include outbound agency founders, SaaS founders, sales trainers, and GTM operators who actively build or teach cold outreach systems:
+
+- Jason Bay
+- Florin Tatulea
+- Eric Nowoslawski
+- Michel Lieben
+- Bill Stathopoulos
+- Jack Reamer
+- Becc Holland
+- Tito Bohrt
+- Guillaume Moubeche
+- Michael Maximoff
+
+The common pattern across their content is that modern outbound works best as a signal-based, multi-channel pipeline: strong ICP selection, buyer-specific research, clean data, deliverability controls, LinkedIn/email/call sequencing, and measurement around qualified replies and booked meetings.
+
 ## Tools I Installed
 
 - Cursor IDE `3.2.21`
