@@ -24,6 +24,12 @@ Collection rows:
 
 - Bill Stathopoulos: rank 1, status caption_found_youtube_transcript_api, 18181 words
 
+Research notes:
+
+- Use this as a deep cold email campaign source.
+- The useful takeaway is that high-performing campaigns depend on infrastructure, targeting, offer-market fit, copy testing, and consistent reporting.
+- Add this to the project as the backbone for the deliverability and experimentation sections.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

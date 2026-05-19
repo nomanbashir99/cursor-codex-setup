@@ -24,6 +24,12 @@ Collection rows:
 
 - Guillaume Moubeche: rank 2, status caption_fetch_failed, 0 words
 
+Research notes:
+
+- Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
+- Use it as a SaaS growth case-study pointer for lemlist.
+- Keep the project takeaway high level unless manually reviewed.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

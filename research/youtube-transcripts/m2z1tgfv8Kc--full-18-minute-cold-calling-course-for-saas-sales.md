@@ -24,6 +24,12 @@ Collection rows:
 
 - Jason Bay: rank 3, status caption_found_youtube_transcript_api, 3726 words
 
+Research notes:
+
+- Use this as a practical SaaS SDR script source.
+- The useful takeaway is to structure calls around persona pain, a short opener, qualification, objection handling, and meeting conversion.
+- Add this to the project as a sample call script and talk track.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

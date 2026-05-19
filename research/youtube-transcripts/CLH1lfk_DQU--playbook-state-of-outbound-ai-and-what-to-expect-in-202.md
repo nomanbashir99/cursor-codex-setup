@@ -24,6 +24,12 @@ Collection rows:
 
 - Jason Bay: rank 4, status caption_found_youtube_transcript_api, 11538 words
 
+Research notes:
+
+- Use this for the 2026 outbound context section.
+- The key takeaway is that AI increases outbound volume, so quality control, data hygiene, offer clarity, and channel mix become more important.
+- Add this to the risk section: avoid generic AI blasting and protect the total addressable market.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

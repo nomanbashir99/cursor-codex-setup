@@ -24,6 +24,12 @@ Collection rows:
 
 - Bill Stathopoulos: rank 2, status caption_found_youtube_transcript_api, 7777 words
 
+Research notes:
+
+- Use this for the operator view of running cold email as a business process.
+- The key takeaway is to connect outbound activity to OKRs, learning loops, and revenue outcomes.
+- Add this to the measurement and management section.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

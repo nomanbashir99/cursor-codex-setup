@@ -24,6 +24,12 @@ Collection rows:
 
 - Becc Holland: rank 1, status caption_found_youtube_transcript_api, 2554 words
 
+Research notes:
+
+- Use this for Becc Holland's problem-led messaging approach.
+- The key takeaway is that strong outbound starts with the buyer's unknown or under-prioritized problem, not the seller's product category.
+- Add this to the buyer research template before copywriting.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

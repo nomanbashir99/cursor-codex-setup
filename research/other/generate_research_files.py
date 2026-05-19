@@ -78,6 +78,204 @@ EXPERTS = {
     },
 }
 
+VIDEO_RESEARCH_NOTES = {
+    "dDM80maP1N0": [
+        "Use this as the main outbound pipeline source: it connects account selection, reasons for outreach, sequencing, and meeting conversion.",
+        "The useful project takeaway is that outbound should be designed as a system with targeting, messaging, follow-up, and performance review, not as one-off cold emails.",
+        "Add its ideas to the project sections on ICP, sequence design, reply handling, and meeting-booking KPIs.",
+    ],
+    "ibsqb3M9rT0": [
+        "Use this for the phone/call layer of the pipeline.",
+        "The key takeaway is that cold calls need a fast relevance hook, a clear problem hypothesis, and a direct next-step ask.",
+        "Add this to the sequence as a call step after email or LinkedIn engagement signals.",
+    ],
+    "m2z1tgfv8Kc": [
+        "Use this as a practical SaaS SDR script source.",
+        "The useful takeaway is to structure calls around persona pain, a short opener, qualification, objection handling, and meeting conversion.",
+        "Add this to the project as a sample call script and talk track.",
+    ],
+    "CLH1lfk_DQU": [
+        "Use this for the 2026 outbound context section.",
+        "The key takeaway is that AI increases outbound volume, so quality control, data hygiene, offer clarity, and channel mix become more important.",
+        "Add this to the risk section: avoid generic AI blasting and protect the total addressable market.",
+    ],
+    "aaFjjDBBEzk": [
+        "Use this for cold email copy and message relevance.",
+        "The useful takeaway is that outreach should be built from the buyer's likely business problem, not from a product-feature pitch.",
+        "Add this to the project as a before/after rewrite framework for cold emails.",
+    ],
+    "YYZUVbMbln8": [
+        "Use this for intent-based prospecting.",
+        "The key takeaway is to prioritize accounts using buying signals, product/community activity, hiring signals, and public trigger events.",
+        "Add this to the lead scoring and account prioritization section.",
+    ],
+    "noRavDnWhr8": [
+        "Use this as a broad prospecting fundamentals source.",
+        "The useful takeaway is that consistent meeting generation depends on list quality, daily execution, strong personalization, and follow-up discipline.",
+        "Add this to the operating cadence and SDR workflow section.",
+    ],
+    "Ag-6pB51s5o": [
+        "Use this to show the difference between weak and strong cold email execution.",
+        "The key takeaway is that experienced outbound operators make the buyer's context specific, reduce fluff, and ask for a simple next step.",
+        "Add this to the email QA checklist.",
+    ],
+    "f9NSfp8M1P8": [
+        "Use this as a tactical cold email checklist.",
+        "The useful takeaway is that performance comes from many small details: list quality, relevant triggers, deliverability, concise copy, and clear testing.",
+        "Add this to the campaign launch checklist.",
+    ],
+    "cfpLJqkmB6I": [
+        "Use this for evidence that cold email is still useful when treated as a tested conversion channel.",
+        "The key takeaway is to test offers, segments, copy angles, and infrastructure instead of assuming one template will work for every market.",
+        "Add this to the experiment plan and KPI dashboard.",
+    ],
+    "3THIdISjTkk": [
+        "Use this for signal testing in Clay or similar tooling.",
+        "The useful takeaway is to test which intent signals actually predict replies before scaling a campaign.",
+        "Add this to the data enrichment and scoring workflow.",
+    ],
+    "8i3OwYsp3vM": [
+        "Use this as an automation workflow example.",
+        "The key takeaway is that automation should enrich and route prospects, while humans still validate relevance and messaging quality.",
+        "Add this to the AI-assisted workflow section.",
+    ],
+    "8YmzlSHX6vo": [
+        "Use this for the outbound tech-stack section.",
+        "The useful takeaway is that AI tools are most valuable when they reduce manual research, enrichment, routing, and campaign setup time.",
+        "Add this to the recommended tool workflow for finding and preparing prospects.",
+    ],
+    "0q23Y0EyM5Y": [
+        "Use this for lead generation strategy.",
+        "The key takeaway is that B2B lead generation should start with a narrow ICP and a repeatable source of relevant prospects.",
+        "Add this to the list-building and qualification process.",
+    ],
+    "C9aFa9kNENw": [
+        "Use this for Clay-specific enrichment and workflow ideas.",
+        "The useful takeaway is to rank tools and features by whether they improve signal quality, personalization, or speed to launch.",
+        "Add this to the technical process map for enrichment.",
+    ],
+    "nWRvk-uiYq0": [
+        "Use this for building an outbound service or internal outbound engine from zero.",
+        "The key takeaway is to start with a tight niche, a simple offer, repeatable proof, and a clear acquisition workflow before scaling.",
+        "Add this to the zero-to-one campaign launch plan.",
+    ],
+    "u0Fe2l1qBAI": [
+        "Use this as a deep cold email campaign source.",
+        "The useful takeaway is that high-performing campaigns depend on infrastructure, targeting, offer-market fit, copy testing, and consistent reporting.",
+        "Add this to the project as the backbone for the deliverability and experimentation sections.",
+    ],
+    "15fX0czKypg": [
+        "Use this for the operator view of running cold email as a business process.",
+        "The key takeaway is to connect outbound activity to OKRs, learning loops, and revenue outcomes.",
+        "Add this to the measurement and management section.",
+    ],
+    "dTZ87UJ1y1c": [
+        "Use this for AI, warmup, and testing considerations.",
+        "The useful takeaway is that AI and warmup tools do not replace fundamentals: relevant targeting, good domains, sound copy, and controlled experiments.",
+        "Add this to the deliverability and AI guardrails section.",
+    ],
+    "XLsAAnNaFOc": [
+        "Use this as a compact expert-advice source on cold email.",
+        "The key takeaway is to combine concise copy, strong targeting, social proof, and disciplined follow-up.",
+        "Add this to the final best-practices checklist.",
+    ],
+    "rXTd1DFoYGI": [
+        "Transcript was not retrievable, so do not treat this file as transcript-derived evidence.",
+        "Use it only as a source pointer for Jack Reamer's cold email outreach content.",
+        "If needed, manually review the video before citing specific claims.",
+    ],
+    "9_Isu6MNlio": [
+        "Use this for copywriting and personalization principles.",
+        "The useful takeaway is that cold outreach copy should be specific, easy to answer, and tied to a believable business reason.",
+        "Add this to the cold email writing checklist.",
+    ],
+    "vhl5fWFUgf0": [
+        "Use this for combined email and LinkedIn strategy.",
+        "The key takeaway is that meetings are more likely when outreach uses multiple touchpoints and keeps the message consistent across channels.",
+        "Add this to the multi-channel sequence section.",
+    ],
+    "k3fCuTaBCcw": [
+        "Use this for LinkedIn cold outreach in agency-style prospecting.",
+        "The useful takeaway is to warm up the profile, choose a narrow prospect segment, and use connection/message steps that do not feel automated.",
+        "Add this to the LinkedIn touchpoints in the 14-day cadence.",
+    ],
+    "PltwHHbWMVo": [
+        "Use this for Becc Holland's problem-led messaging approach.",
+        "The key takeaway is that strong outbound starts with the buyer's unknown or under-prioritized problem, not the seller's product category.",
+        "Add this to the buyer research template before copywriting.",
+    ],
+    "2yrkpp_uH2M": [
+        "Transcript was not retrievable, so do not treat this file as transcript-derived evidence.",
+        "Use the source as a pointer for common cold email mistakes and pattern-breaking ideas.",
+        "Manually review before adding exact examples to the project.",
+    ],
+    "xvgEXRZ7NRs": [
+        "Transcript was not retrievable, so do not treat this file as transcript-derived evidence.",
+        "Use the source as a pointer for making cold email more differentiated.",
+        "Manually review before citing specific tactics.",
+    ],
+    "VeiQFhr-1Oc": [
+        "Transcript was not retrievable, so do not treat this file as transcript-derived evidence.",
+        "Use it as a pointer to Becc Holland's cold email training content.",
+        "Manually review before using exact recommendations.",
+    ],
+    "yVyd07vdZ8c": [
+        "Transcript was not retrievable, so do not treat this file as transcript-derived evidence.",
+        "Use the title/source as a pointer to Tito Bohrt's outbound success framework.",
+        "Pair this with the collected LinkedIn post for citation-ready evidence on AI SDR noise and business acumen.",
+    ],
+    "Zxlk5s13ZX0": [
+        "Transcript was not retrievable, so do not treat this file as transcript-derived evidence.",
+        "Use the source as a pointer for where AI fails in sales development.",
+        "Pair this with Tito Bohrt's public LinkedIn source before making claims in the project.",
+    ],
+    "0jSdFJDFbxQ": [
+        "Transcript was not retrievable, so do not treat this file as transcript-derived evidence.",
+        "Use it as a discovery-call source pointer, not as a cold email source.",
+        "Only cite after manual review if the project includes post-reply discovery handling.",
+    ],
+    "8DQ6oLXp9RA": [
+        "Transcript was not retrievable, so do not treat this file as transcript-derived evidence.",
+        "Use it as background on AltiSales and sales leadership, not as a primary outbound source.",
+        "Keep it in supporting materials rather than the main project argument.",
+    ],
+    "XNcCkLdqjoc": [
+        "Transcript was not retrievable, so do not treat this file as transcript-derived evidence.",
+        "Use it as a pointer to Guillaume Moubeche's cold email origin story.",
+        "Pair this with lemlist/operator sources when discussing reply-focused outbound.",
+    ],
+    "1ceYB2XXbDk": [
+        "Transcript was not retrievable, so do not treat this file as transcript-derived evidence.",
+        "Use it as a SaaS growth case-study pointer for lemlist.",
+        "Keep the project takeaway high level unless manually reviewed.",
+    ],
+    "Sf6nOjQS0fk": [
+        "No caption track was found, so this file is metadata-only.",
+        "Use it as a pointer to Guillaume Moubeche's French-language cold mailing content.",
+        "Do not use it as a primary source unless reviewed manually.",
+    ],
+    "IdJFUDNddv4": [
+        "Transcript was not retrievable, so do not treat this file as transcript-derived evidence.",
+        "Use it as background on customer loss and SaaS learning loops, not as a primary outbound tactic source.",
+        "Keep it in supporting materials.",
+    ],
+    "4MIBWWzGEKw": [
+        "Transcript was not retrievable, so do not treat this file as transcript-derived evidence.",
+        "Use it as a pointer to Michael Maximoff's view that cold outreach needs repair through relevance and channel mix.",
+        "Pair this with the Belkins benchmark LinkedIn source before citing.",
+    ],
+    "bzTjF7Dhu-I": [
+        "Transcript was not retrievable, so do not treat this file as transcript-derived evidence.",
+        "Use it as a pointer for creative outbound ideas.",
+        "Manually review before turning any idea into a playbook step.",
+    ],
+    "EdfXK1Phge8": [
+        "Transcript was not retrievable, so do not treat this file as transcript-derived evidence.",
+        "Use it as a pointer to cold email playbook design with Michael Maximoff.",
+        "Pair with Belkins benchmark material for source-backed claims.",
+    ],
+}
+
 
 def read_csv(path: Path) -> list[dict[str, str]]:
     with path.open(newline="", encoding="utf-8") as handle:
@@ -302,6 +500,9 @@ def write_youtube_files(
             f"- {item['expert']}: rank {item['video_rank']}, status {item['caption_status']}, {item['transcript_word_count'] or 'not available'} words"
             for item in source_rows
         )
+        research_notes = "\n".join(
+            f"- {note}" for note in VIDEO_RESEARCH_NOTES.get(video_id, [])
+        )
         text = f"""# {row['title']}
 
 Associated expert(s): {experts}
@@ -327,6 +528,10 @@ Short transcript excerpt:
 Collection rows:
 
 {collection_rows}
+
+Research notes:
+
+{research_notes}
 
 Notes:
 

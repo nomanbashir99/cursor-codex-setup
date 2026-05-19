@@ -24,6 +24,12 @@ Collection rows:
 
 - Florin Tatulea: rank 3, status caption_found_youtube_transcript_api, 9084 words
 
+Research notes:
+
+- Use this as a broad prospecting fundamentals source.
+- The useful takeaway is that consistent meeting generation depends on list quality, daily execution, strong personalization, and follow-up discipline.
+- Add this to the operating cadence and SDR workflow section.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

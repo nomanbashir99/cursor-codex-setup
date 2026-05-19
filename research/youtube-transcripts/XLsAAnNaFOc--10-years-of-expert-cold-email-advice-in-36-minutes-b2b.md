@@ -24,6 +24,12 @@ Collection rows:
 
 - Bill Stathopoulos: rank 4, status caption_found_youtube_transcript_api, 7969 words
 
+Research notes:
+
+- Use this as a compact expert-advice source on cold email.
+- The key takeaway is to combine concise copy, strong targeting, social proof, and disciplined follow-up.
+- Add this to the final best-practices checklist.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

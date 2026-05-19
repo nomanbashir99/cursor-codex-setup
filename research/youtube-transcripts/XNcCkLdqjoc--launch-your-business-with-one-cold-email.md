@@ -24,6 +24,12 @@ Collection rows:
 
 - Guillaume Moubeche: rank 1, status caption_fetch_failed, 0 words
 
+Research notes:
+
+- Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
+- Use it as a pointer to Guillaume Moubeche's cold email origin story.
+- Pair this with lemlist/operator sources when discussing reply-focused outbound.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

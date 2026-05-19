@@ -24,6 +24,12 @@ Collection rows:
 
 - Guillaume Moubeche: rank 3, status no_caption_tracks, not available words
 
+Research notes:
+
+- No caption track was found, so this file is metadata-only.
+- Use it as a pointer to Guillaume Moubeche's French-language cold mailing content.
+- Do not use it as a primary source unless reviewed manually.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

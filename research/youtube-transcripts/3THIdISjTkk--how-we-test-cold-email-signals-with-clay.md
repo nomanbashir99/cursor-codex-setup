@@ -24,6 +24,12 @@ Collection rows:
 
 - Eric Nowoslawski: rank 3, status caption_found_youtube_transcript_api, 2269 words
 
+Research notes:
+
+- Use this for signal testing in Clay or similar tooling.
+- The useful takeaway is to test which intent signals actually predict replies before scaling a campaign.
+- Add this to the data enrichment and scoring workflow.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

@@ -24,6 +24,12 @@ Collection rows:
 
 - Jason Bay: rank 1, status caption_found_youtube_transcript_api, 7552 words
 
+Research notes:
+
+- Use this as the main outbound pipeline source: it connects account selection, reasons for outreach, sequencing, and meeting conversion.
+- The useful project takeaway is that outbound should be designed as a system with targeting, messaging, follow-up, and performance review, not as one-off cold emails.
+- Add its ideas to the project sections on ICP, sequence design, reply handling, and meeting-booking KPIs.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

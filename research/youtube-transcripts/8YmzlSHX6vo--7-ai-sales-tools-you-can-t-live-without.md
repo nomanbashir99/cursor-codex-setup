@@ -24,6 +24,12 @@ Collection rows:
 
 - Michel Lieben: rank 1, status caption_found_youtube_transcript_api, 5891 words
 
+Research notes:
+
+- Use this for the outbound tech-stack section.
+- The useful takeaway is that AI tools are most valuable when they reduce manual research, enrichment, routing, and campaign setup time.
+- Add this to the recommended tool workflow for finding and preparing prospects.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

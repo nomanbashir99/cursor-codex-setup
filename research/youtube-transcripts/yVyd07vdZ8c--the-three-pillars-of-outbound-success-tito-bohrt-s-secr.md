@@ -24,6 +24,12 @@ Collection rows:
 
 - Tito Bohrt: rank 1, status caption_fetch_failed, 0 words
 
+Research notes:
+
+- Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
+- Use the title/source as a pointer to Tito Bohrt's outbound success framework.
+- Pair this with the collected LinkedIn post for citation-ready evidence on AI SDR noise and business acumen.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

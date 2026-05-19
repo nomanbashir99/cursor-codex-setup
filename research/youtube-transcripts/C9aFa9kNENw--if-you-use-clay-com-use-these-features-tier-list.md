@@ -24,6 +24,12 @@ Collection rows:
 
 - Michel Lieben: rank 3, status caption_found_youtube_transcript_api, 8224 words
 
+Research notes:
+
+- Use this for Clay-specific enrichment and workflow ideas.
+- The useful takeaway is to rank tools and features by whether they improve signal quality, personalization, or speed to launch.
+- Add this to the technical process map for enrichment.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

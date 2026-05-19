@@ -24,6 +24,12 @@ Collection rows:
 
 - Jack Reamer: rank 2, status caption_found_youtube_transcript_api, 4826 words
 
+Research notes:
+
+- Use this for copywriting and personalization principles.
+- The useful takeaway is that cold outreach copy should be specific, easy to answer, and tied to a believable business reason.
+- Add this to the cold email writing checklist.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

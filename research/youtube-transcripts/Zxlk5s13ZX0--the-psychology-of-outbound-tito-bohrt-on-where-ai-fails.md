@@ -24,6 +24,12 @@ Collection rows:
 
 - Tito Bohrt: rank 2, status caption_fetch_failed, 0 words
 
+Research notes:
+
+- Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
+- Use the source as a pointer for where AI fails in sales development.
+- Pair this with Tito Bohrt's public LinkedIn source before making claims in the project.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

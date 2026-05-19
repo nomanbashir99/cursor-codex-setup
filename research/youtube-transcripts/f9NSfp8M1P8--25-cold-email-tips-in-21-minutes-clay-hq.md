@@ -24,6 +24,12 @@ Collection rows:
 
 - Eric Nowoslawski: rank 1, status caption_found_youtube_transcript_api, 5668 words
 
+Research notes:
+
+- Use this as a tactical cold email checklist.
+- The useful takeaway is that performance comes from many small details: list quality, relevant triggers, deliverability, concise copy, and clear testing.
+- Add this to the campaign launch checklist.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

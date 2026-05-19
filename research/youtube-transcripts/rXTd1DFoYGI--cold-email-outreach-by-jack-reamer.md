@@ -24,6 +24,12 @@ Collection rows:
 
 - Jack Reamer: rank 1, status no_caption_tracks, not available words
 
+Research notes:
+
+- Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
+- Use it only as a source pointer for Jack Reamer's cold email outreach content.
+- If needed, manually review the video before citing specific claims.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

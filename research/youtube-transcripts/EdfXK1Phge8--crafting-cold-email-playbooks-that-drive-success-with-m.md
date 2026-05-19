@@ -24,6 +24,12 @@ Collection rows:
 
 - Michael Maximoff: rank 4, status caption_fetch_failed, 0 words
 
+Research notes:
+
+- Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
+- Use it as a pointer to cold email playbook design with Michael Maximoff.
+- Pair with Belkins benchmark material for source-backed claims.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

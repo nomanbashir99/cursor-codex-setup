@@ -24,6 +24,12 @@ Collection rows:
 
 - Florin Tatulea: rank 4, status caption_found_youtube_transcript_api, 7350 words
 
+Research notes:
+
+- Use this to show the difference between weak and strong cold email execution.
+- The key takeaway is that experienced outbound operators make the buyer's context specific, reduce fluff, and ask for a simple next step.
+- Add this to the email QA checklist.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

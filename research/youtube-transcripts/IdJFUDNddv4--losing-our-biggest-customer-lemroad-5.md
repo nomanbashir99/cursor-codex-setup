@@ -24,6 +24,12 @@ Collection rows:
 
 - Guillaume Moubeche: rank 4, status caption_fetch_failed, 0 words
 
+Research notes:
+
+- Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
+- Use it as background on customer loss and SaaS learning loops, not as a primary outbound tactic source.
+- Keep it in supporting materials.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

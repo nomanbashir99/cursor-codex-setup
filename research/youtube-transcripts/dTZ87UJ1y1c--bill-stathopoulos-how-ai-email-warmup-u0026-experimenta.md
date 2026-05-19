@@ -24,6 +24,12 @@ Collection rows:
 
 - Bill Stathopoulos: rank 3, status caption_found_youtube_transcript_api, 3902 words
 
+Research notes:
+
+- Use this for AI, warmup, and testing considerations.
+- The useful takeaway is that AI and warmup tools do not replace fundamentals: relevant targeting, good domains, sound copy, and controlled experiments.
+- Add this to the deliverability and AI guardrails section.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

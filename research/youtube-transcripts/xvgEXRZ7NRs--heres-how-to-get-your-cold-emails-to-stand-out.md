@@ -24,6 +24,12 @@ Collection rows:
 
 - Becc Holland: rank 3, status caption_fetch_failed, 0 words
 
+Research notes:
+
+- Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
+- Use the source as a pointer for making cold email more differentiated.
+- Manually review before citing specific tactics.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

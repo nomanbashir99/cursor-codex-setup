@@ -24,6 +24,12 @@ Collection rows:
 
 - Michel Lieben: rank 2, status caption_found_youtube_transcript_api, 1958 words
 
+Research notes:
+
+- Use this for lead generation strategy.
+- The key takeaway is that B2B lead generation should start with a narrow ICP and a repeatable source of relevant prospects.
+- Add this to the list-building and qualification process.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

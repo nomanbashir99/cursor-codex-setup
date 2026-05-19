@@ -24,6 +24,12 @@ Collection rows:
 
 - Michael Maximoff: rank 1, status caption_fetch_failed, 0 words
 
+Research notes:
+
+- Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
+- Use it as a pointer to Michael Maximoff's view that cold outreach needs repair through relevance and channel mix.
+- Pair this with the Belkins benchmark LinkedIn source before citing.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

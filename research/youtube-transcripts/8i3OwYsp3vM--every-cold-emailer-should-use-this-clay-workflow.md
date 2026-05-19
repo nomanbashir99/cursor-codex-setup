@@ -24,6 +24,12 @@ Collection rows:
 
 - Eric Nowoslawski: rank 4, status caption_found_youtube_transcript_api, 1421 words
 
+Research notes:
+
+- Use this as an automation workflow example.
+- The key takeaway is that automation should enrich and route prospects, while humans still validate relevance and messaging quality.
+- Add this to the AI-assisted workflow section.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

@@ -24,6 +24,12 @@ Collection rows:
 
 - Jack Reamer: rank 4, status caption_found_youtube_transcript_api, 5074 words
 
+Research notes:
+
+- Use this for LinkedIn cold outreach in agency-style prospecting.
+- The useful takeaway is to warm up the profile, choose a narrow prospect segment, and use connection/message steps that do not feel automated.
+- Add this to the LinkedIn touchpoints in the 14-day cadence.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

@@ -24,6 +24,12 @@ Collection rows:
 
 - Florin Tatulea: rank 2, status caption_found_youtube_transcript_api, 5142 words
 
+Research notes:
+
+- Use this for intent-based prospecting.
+- The key takeaway is to prioritize accounts using buying signals, product/community activity, hiring signals, and public trigger events.
+- Add this to the lead scoring and account prioritization section.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

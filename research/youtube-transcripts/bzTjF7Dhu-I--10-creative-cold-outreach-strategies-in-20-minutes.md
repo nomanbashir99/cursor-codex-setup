@@ -24,6 +24,12 @@ Collection rows:
 
 - Michael Maximoff: rank 2, status caption_fetch_failed, 0 words
 
+Research notes:
+
+- Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
+- Use it as a pointer for creative outbound ideas.
+- Manually review before turning any idea into a playbook step.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

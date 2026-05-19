@@ -24,6 +24,12 @@ Collection rows:
 
 - Eric Nowoslawski: rank 2, status caption_found_youtube_transcript_api, 7073 words
 
+Research notes:
+
+- Use this for evidence that cold email is still useful when treated as a tested conversion channel.
+- The key takeaway is to test offers, segments, copy angles, and infrastructure instead of assuming one template will work for every market.
+- Add this to the experiment plan and KPI dashboard.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

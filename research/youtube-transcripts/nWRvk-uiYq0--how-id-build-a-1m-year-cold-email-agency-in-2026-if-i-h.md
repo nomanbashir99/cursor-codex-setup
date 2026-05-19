@@ -24,6 +24,12 @@ Collection rows:
 
 - Michel Lieben: rank 4, status caption_found_youtube_transcript_api, 2205 words
 
+Research notes:
+
+- Use this for building an outbound service or internal outbound engine from zero.
+- The key takeaway is to start with a tight niche, a simple offer, repeatable proof, and a clear acquisition workflow before scaling.
+- Add this to the zero-to-one campaign launch plan.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

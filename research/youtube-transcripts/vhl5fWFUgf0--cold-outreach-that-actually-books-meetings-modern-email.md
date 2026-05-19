@@ -25,6 +25,12 @@ Collection rows:
 - Jack Reamer: rank 3, status caption_found_youtube_transcript_api, 9547 words
 - Michael Maximoff: rank 3, status caption_fetch_failed, 0 words
 
+Research notes:
+
+- Use this for combined email and LinkedIn strategy.
+- The key takeaway is that meetings are more likely when outreach uses multiple touchpoints and keeps the message consistent across channels.
+- Add this to the multi-channel sequence section.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

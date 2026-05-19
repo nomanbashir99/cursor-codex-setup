@@ -24,6 +24,12 @@ Collection rows:
 
 - Jason Bay: rank 2, status caption_found_youtube_transcript_api, 3420 words
 
+Research notes:
+
+- Use this for the phone/call layer of the pipeline.
+- The key takeaway is that cold calls need a fast relevance hook, a clear problem hypothesis, and a direct next-step ask.
+- Add this to the sequence as a call step after email or LinkedIn engagement signals.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

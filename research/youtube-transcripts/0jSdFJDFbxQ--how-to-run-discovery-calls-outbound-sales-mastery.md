@@ -24,6 +24,12 @@ Collection rows:
 
 - Tito Bohrt: rank 3, status caption_fetch_failed, 0 words
 
+Research notes:
+
+- Transcript was not retrievable, so do not treat this file as transcript-derived evidence.
+- Use it as a discovery-call source pointer, not as a cold email source.
+- Only cite after manual review if the project includes post-reply discovery handling.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.

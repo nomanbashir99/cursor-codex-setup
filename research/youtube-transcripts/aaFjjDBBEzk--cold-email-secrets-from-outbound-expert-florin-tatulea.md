@@ -24,6 +24,12 @@ Collection rows:
 
 - Florin Tatulea: rank 1, status caption_found_youtube_transcript_api, 3613 words
 
+Research notes:
+
+- Use this for cold email copy and message relevance.
+- The useful takeaway is that outreach should be built from the buyer's likely business problem, not from a product-feature pitch.
+- Add this to the project as a before/after rewrite framework for cold emails.
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.
