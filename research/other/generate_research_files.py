@@ -278,20 +278,37 @@ def write_youtube_files(
         "|---|---|---|---|---|",
     ]
 
+    grouped: dict[str, list[dict[str, str]]] = {}
     for row in rows:
+        grouped.setdefault(row["video_id"], []).append(row)
+
+    for video_id, source_rows in grouped.items():
+        row = next(
+            (
+                item
+                for item in source_rows
+                if item["caption_status"] == "caption_found_youtube_transcript_api"
+            ),
+            source_rows[0],
+        )
         title_slug = slug(row["title"], max_len=55)
-        filename = f"{row['video_id']}--{title_slug}.md"
+        filename = f"{video_id}--{title_slug}.md"
         path = YOUTUBE_DIR / filename
-        upload_date = upload_dates.get(row["video_id"], "unknown")
+        upload_date = upload_dates.get(video_id, "unknown")
         word_count = row["transcript_word_count"] or "not available"
         excerpt = row["transcript_excerpt_24_words"] or "No transcript excerpt available."
+        experts = ", ".join(dict.fromkeys(item["expert"] for item in source_rows))
+        collection_rows = "\n".join(
+            f"- {item['expert']}: rank {item['video_rank']}, status {item['caption_status']}, {item['transcript_word_count'] or 'not available'} words"
+            for item in source_rows
+        )
         text = f"""# {row['title']}
 
-Expert: {row['expert']}
+Associated expert(s): {experts}
 
 Video URL: {row['url']}
 
-Video ID: {row['video_id']}
+Video ID: {video_id}
 
 Upload date: {upload_date}
 
@@ -307,6 +324,10 @@ Short transcript excerpt:
 
 > {excerpt}
 
+Collection rows:
+
+{collection_rows}
+
 Notes:
 
 - This is a transcript source file, not a full transcript dump.
@@ -315,7 +336,7 @@ Notes:
 """
         write(path, text)
         index_lines.append(
-            f"| {row['expert']} | {row['title']} | {upload_date} | {row['caption_status']} | {filename} |"
+            f"| {experts} | {row['title']} | {upload_date} | {row['caption_status']} | {filename} |"
         )
 
     write(YOUTUBE_DIR / "index.md", "\n".join(index_lines))

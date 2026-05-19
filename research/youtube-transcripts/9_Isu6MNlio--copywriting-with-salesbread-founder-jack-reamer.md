@@ -1,6 +1,6 @@
 # 📈 copywriting with salesbread founder jack reamer
 
-Expert: Jack Reamer
+Associated expert(s): Jack Reamer
 
 Video URL: https://www.youtube.com/watch?v=9_Isu6MNlio
 
@@ -19,6 +19,10 @@ Transcript word count: 4826
 Short transcript excerpt:
 
 > welcome to another sales wisdom podcast we have Jack reamer with us he's a Founder podcast podcast host and a B2B Matchmaker his company
+
+Collection rows:
+
+- Jack Reamer: rank 2, status caption_found_youtube_transcript_api, 4826 words
 
 Notes:
 

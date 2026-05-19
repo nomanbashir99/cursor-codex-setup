@@ -1,6 +1,6 @@
 # How to Run Discovery Calls - Outbound Sales Mastery
 
-Expert: Tito Bohrt
+Associated expert(s): Tito Bohrt
 
 Video URL: https://www.youtube.com/watch?v=0jSdFJDFbxQ
 
@@ -19,6 +19,10 @@ Transcript word count: 0
 Short transcript excerpt:
 
 > No transcript excerpt available.
+
+Collection rows:
+
+- Tito Bohrt: rank 3, status caption_fetch_failed, 0 words
 
 Notes:
 

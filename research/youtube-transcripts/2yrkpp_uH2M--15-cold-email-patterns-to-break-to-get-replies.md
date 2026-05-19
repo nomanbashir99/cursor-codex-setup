@@ -1,6 +1,6 @@
 # 15 Cold Email Patterns to Break to Get Replies
 
-Expert: Becc Holland
+Associated expert(s): Becc Holland
 
 Video URL: https://www.youtube.com/watch?v=2yrkpp_uH2M
 
@@ -19,6 +19,10 @@ Transcript word count: 0
 Short transcript excerpt:
 
 > No transcript excerpt available.
+
+Collection rows:
+
+- Becc Holland: rank 2, status caption_fetch_failed, 0 words
 
 Notes:
 

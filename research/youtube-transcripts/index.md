@@ -28,7 +28,7 @@ These files are organized by video ID. Full transcripts are not stored; each fil
 | Bill Stathopoulos | 10 Years of Expert Cold Email Advice in 36 Minutes (B2B Sales) | 2025-06-09T04:00:52-07:00 | caption_found_youtube_transcript_api | XLsAAnNaFOc--10-years-of-expert-cold-email-advice-in-36-minutes-b2b.md |
 | Jack Reamer | Cold Email Outreach by Jack Reamer | 2026-04-30T17:36:07-07:00 | no_caption_tracks | rXTd1DFoYGI--cold-email-outreach-by-jack-reamer.md |
 | Jack Reamer | 📈 copywriting with salesbread founder jack reamer | 2024-06-28T13:57:58-07:00 | caption_found_youtube_transcript_api | 9_Isu6MNlio--copywriting-with-salesbread-founder-jack-reamer.md |
-| Jack Reamer | Cold Outreach That Actually Books Meetings | Modern Email + LinkedIn Strategy | 2026-05-19T02:00:56-07:00 | caption_found_youtube_transcript_api | vhl5fWFUgf0--cold-outreach-that-actually-books-meetings-modern-email.md |
+| Jack Reamer, Michael Maximoff | Cold Outreach That Actually Books Meetings | Modern Email + LinkedIn Strategy | 2026-05-19T02:00:56-07:00 | caption_found_youtube_transcript_api | vhl5fWFUgf0--cold-outreach-that-actually-books-meetings-modern-email.md |
 | Jack Reamer | The Best LinkedIn Cold Outreach Strategy For Agencies (2026) | 2026-04-29T07:00:00-07:00 | caption_found_youtube_transcript_api | k3fCuTaBCcw--the-best-linkedin-cold-outreach-strategy-for-agencies-2.md |
 | Becc Holland | How to Craft an Outbound Strategy Leading with Unknown Problems - Becc Holland from Flip the Script | 2023-08-22T11:20:48-07:00 | caption_found_youtube_transcript_api | PltwHHbWMVo--how-to-craft-an-outbound-strategy-leading-with-unknown.md |
 | Becc Holland | 15 Cold Email Patterns to Break to Get Replies | 2022-08-04T09:08:00-07:00 | caption_fetch_failed | 2yrkpp_uH2M--15-cold-email-patterns-to-break-to-get-replies.md |
@@ -44,5 +44,4 @@ These files are organized by video ID. Full transcripts are not stored; each fil
 | Guillaume Moubeche | Losing our biggest customer  | lemroad #5 | 2021-04-30T09:00:11-07:00 | caption_fetch_failed | IdJFUDNddv4--losing-our-biggest-customer-lemroad-5.md |
 | Michael Maximoff | Cold Outreach Is Broken — Here’s How to Fix It with Michael Maximoff (Belkins) | 2025-08-25T15:01:29-07:00 | caption_fetch_failed | 4MIBWWzGEKw--cold-outreach-is-broken-heres-how-to-fix-it-with-michae.md |
 | Michael Maximoff | 10 Creative Cold Outreach Strategies in 20 Minutes | 2023-05-31T04:22:41-07:00 | caption_fetch_failed | bzTjF7Dhu-I--10-creative-cold-outreach-strategies-in-20-minutes.md |
-| Michael Maximoff | Cold Outreach That Actually Books Meetings | Modern Email + LinkedIn Strategy | 2026-05-19T02:00:56-07:00 | caption_fetch_failed | vhl5fWFUgf0--cold-outreach-that-actually-books-meetings-modern-email.md |
 | Michael Maximoff | Crafting Cold Email Playbooks That Drive Success with Michael Maximoff - Ep 17 | 2024-10-16T04:35:37-07:00 | caption_fetch_failed | EdfXK1Phge8--crafting-cold-email-playbooks-that-drive-success-with-m.md |

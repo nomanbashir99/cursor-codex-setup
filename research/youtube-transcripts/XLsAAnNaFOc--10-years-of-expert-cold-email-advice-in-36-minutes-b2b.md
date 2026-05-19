@@ -1,6 +1,6 @@
 # 10 Years of Expert Cold Email Advice in 36 Minutes (B2B Sales)
 
-Expert: Bill Stathopoulos
+Associated expert(s): Bill Stathopoulos
 
 Video URL: https://www.youtube.com/watch?v=XLsAAnNaFOc
 
@@ -19,6 +19,10 @@ Transcript word count: 7969
 Short transcript excerpt:
 
 > back at it Connor back at it excited to be here we're going to do a super deep dive into cold emailing we have
+
+Collection rows:
+
+- Bill Stathopoulos: rank 4, status caption_found_youtube_transcript_api, 7969 words
 
 Notes:
 

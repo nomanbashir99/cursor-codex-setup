@@ -1,6 +1,6 @@
 # Cold Email Secrets: Bill Stathopoulos on Life as a Founder, OKRs, and Cold Email
 
-Expert: Bill Stathopoulos
+Associated expert(s): Bill Stathopoulos
 
 Video URL: https://www.youtube.com/watch?v=15fX0czKypg
 
@@ -19,6 +19,10 @@ Transcript word count: 7777
 Short transcript excerpt:
 
 > Welcome to the Habit Stack podcast where we talk to fellow founders who are in the thick of things as they execute their plans
+
+Collection rows:
+
+- Bill Stathopoulos: rank 2, status caption_found_youtube_transcript_api, 7777 words
 
 Notes:
 

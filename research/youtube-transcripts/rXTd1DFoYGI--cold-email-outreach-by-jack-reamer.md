@@ -1,6 +1,6 @@
 # Cold Email Outreach by Jack Reamer
 
-Expert: Jack Reamer
+Associated expert(s): Jack Reamer
 
 Video URL: https://www.youtube.com/watch?v=rXTd1DFoYGI
 
@@ -19,6 +19,10 @@ Transcript word count: not available
 Short transcript excerpt:
 
 > No transcript excerpt available.
+
+Collection rows:
+
+- Jack Reamer: rank 1, status no_caption_tracks, not available words
 
 Notes:
 

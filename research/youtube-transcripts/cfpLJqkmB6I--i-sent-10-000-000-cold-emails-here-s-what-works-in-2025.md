@@ -1,6 +1,6 @@
 # I sent 10,000,000 cold emails, here's what works in 2025
 
-Expert: Eric Nowoslawski
+Associated expert(s): Eric Nowoslawski
 
 Video URL: https://www.youtube.com/watch?v=cfpLJqkmB6I
 
@@ -19,6 +19,10 @@ Transcript word count: 7073
 Short transcript excerpt:
 
 > Did you think cold email was going to be easy? I know I did when I first got started. In the past 4 years,
+
+Collection rows:
+
+- Eric Nowoslawski: rank 2, status caption_found_youtube_transcript_api, 7073 words
 
 Notes:
 

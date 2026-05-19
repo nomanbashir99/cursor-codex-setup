@@ -1,6 +1,6 @@
 # Here’s How to Get Your Cold Emails to Stand Out!
 
-Expert: Becc Holland
+Associated expert(s): Becc Holland
 
 Video URL: https://www.youtube.com/watch?v=xvgEXRZ7NRs
 
@@ -19,6 +19,10 @@ Transcript word count: 0
 Short transcript excerpt:
 
 > No transcript excerpt available.
+
+Collection rows:
+
+- Becc Holland: rank 3, status caption_fetch_failed, 0 words
 
 Notes:
 

@@ -1,6 +1,6 @@
 # Crafting Cold Email Playbooks That Drive Success with Michael Maximoff - Ep 17
 
-Expert: Michael Maximoff
+Associated expert(s): Michael Maximoff
 
 Video URL: https://www.youtube.com/watch?v=EdfXK1Phge8
 
@@ -19,6 +19,10 @@ Transcript word count: 0
 Short transcript excerpt:
 
 > No transcript excerpt available.
+
+Collection rows:
+
+- Michael Maximoff: rank 4, status caption_fetch_failed, 0 words
 
 Notes:
 

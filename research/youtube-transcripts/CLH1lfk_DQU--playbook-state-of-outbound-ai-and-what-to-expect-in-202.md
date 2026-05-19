@@ -1,6 +1,6 @@
 # [Playbook] State of Outbound: AI and what to expect in 2026
 
-Expert: Jason Bay
+Associated expert(s): Jason Bay
 
 Video URL: https://www.youtube.com/watch?v=CLH1lfk_DQU
 
@@ -19,6 +19,10 @@ Transcript word count: 11538
 Short transcript excerpt:
 
 > So, in today's playbook episode, we're going to talk about the state of outbound. Um, we're going to focus some on AI. We're going
+
+Collection rows:
+
+- Jason Bay: rank 4, status caption_found_youtube_transcript_api, 11538 words
 
 Notes:
 

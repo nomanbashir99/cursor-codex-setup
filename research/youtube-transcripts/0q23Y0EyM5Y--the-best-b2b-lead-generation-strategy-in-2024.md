@@ -1,6 +1,6 @@
 # The Best B2B Lead Generation Strategy in 2024
 
-Expert: Michel Lieben
+Associated expert(s): Michel Lieben
 
 Video URL: https://www.youtube.com/watch?v=0q23Y0EyM5Y
 
@@ -19,6 +19,10 @@ Transcript word count: 1958
 Short transcript excerpt:
 
 > over the past 7 years I've used dozens of Le generation strategies to Book Sales codes for over 75 B2B companies within that time
+
+Collection rows:
+
+- Michel Lieben: rank 2, status caption_found_youtube_transcript_api, 1958 words
 
 Notes:
 

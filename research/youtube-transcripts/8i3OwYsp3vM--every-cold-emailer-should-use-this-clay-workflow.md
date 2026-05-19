@@ -1,6 +1,6 @@
 # Every Cold Emailer Should Use This Clay Workflow
 
-Expert: Eric Nowoslawski
+Associated expert(s): Eric Nowoslawski
 
 Video URL: https://www.youtube.com/watch?v=8i3OwYsp3vM
 
@@ -19,6 +19,10 @@ Transcript word count: 1421
 Short transcript excerpt:
 
 > people come to me all the time asking what's the hype about clay and should I really be using it and is it really
+
+Collection rows:
+
+- Eric Nowoslawski: rank 4, status caption_found_youtube_transcript_api, 1421 words
 
 Notes:
 

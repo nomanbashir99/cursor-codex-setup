@@ -1,6 +1,6 @@
 # If you use Clay.com, Use These Features [TIER LIST]
 
-Expert: Michel Lieben
+Associated expert(s): Michel Lieben
 
 Video URL: https://www.youtube.com/watch?v=C9aFa9kNENw
 
@@ -19,6 +19,10 @@ Transcript word count: 8224
 Short transcript excerpt:
 
 > we used AI tools to grow our prospecting agency to 3.6 million per year in the process we tried a lot of tools one
+
+Collection rows:
+
+- Michel Lieben: rank 3, status caption_found_youtube_transcript_api, 8224 words
 
 Notes:
 

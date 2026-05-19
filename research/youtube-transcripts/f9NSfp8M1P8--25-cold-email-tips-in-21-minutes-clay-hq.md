@@ -1,6 +1,6 @@
 # 25 Cold Email Tips in 21 Minutes @ Clay HQ
 
-Expert: Eric Nowoslawski
+Associated expert(s): Eric Nowoslawski
 
 Video URL: https://www.youtube.com/watch?v=f9NSfp8M1P8
 
@@ -19,6 +19,10 @@ Transcript word count: 5668
 Short transcript excerpt:
 
 > last year in 2024 we send between 1.5 million and 2 million cold emails on behalf of our 40 to 50 customers at any
+
+Collection rows:
+
+- Eric Nowoslawski: rank 1, status caption_found_youtube_transcript_api, 5668 words
 
 Notes:
 

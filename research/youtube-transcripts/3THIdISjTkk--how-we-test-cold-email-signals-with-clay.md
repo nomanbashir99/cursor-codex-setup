@@ -1,6 +1,6 @@
 # How We Test Cold Email Signals with Clay
 
-Expert: Eric Nowoslawski
+Associated expert(s): Eric Nowoslawski
 
 Video URL: https://www.youtube.com/watch?v=3THIdISjTkk
 
@@ -19,6 +19,10 @@ Transcript word count: 2269
 Short transcript excerpt:
 
 > One thing I would have to say that is becoming probably overhyped in the cold outbound, cold email, messaging guru space, whatever you want
+
+Collection rows:
+
+- Eric Nowoslawski: rank 3, status caption_found_youtube_transcript_api, 2269 words
 
 Notes:
 

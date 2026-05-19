@@ -1,6 +1,6 @@
 # 7 AI Sales Tools You Can't Live Without!
 
-Expert: Michel Lieben
+Associated expert(s): Michel Lieben
 
 Video URL: https://www.youtube.com/watch?v=8YmzlSHX6vo
 
@@ -19,6 +19,10 @@ Transcript word count: 5891
 Short transcript excerpt:
 
 > my AI lead generation agency makes over 3.6 million per year and I use 46 separate software applications to run it it's a lot
+
+Collection rows:
+
+- Michel Lieben: rank 1, status caption_found_youtube_transcript_api, 5891 words
 
 Notes:
 

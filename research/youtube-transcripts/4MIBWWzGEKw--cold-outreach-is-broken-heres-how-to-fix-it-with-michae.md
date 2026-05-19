@@ -1,6 +1,6 @@
 # Cold Outreach Is Broken — Here’s How to Fix It with Michael Maximoff (Belkins)
 
-Expert: Michael Maximoff
+Associated expert(s): Michael Maximoff
 
 Video URL: https://www.youtube.com/watch?v=4MIBWWzGEKw
 
@@ -19,6 +19,10 @@ Transcript word count: 0
 Short transcript excerpt:
 
 > No transcript excerpt available.
+
+Collection rows:
+
+- Michael Maximoff: rank 1, status caption_fetch_failed, 0 words
 
 Notes:
 

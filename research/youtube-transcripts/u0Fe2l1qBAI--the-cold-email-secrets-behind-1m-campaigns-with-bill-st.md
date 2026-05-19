@@ -1,6 +1,6 @@
 # The Cold Email Secrets Behind $1M+ Campaigns — with Bill Stathopoulos
 
-Expert: Bill Stathopoulos
+Associated expert(s): Bill Stathopoulos
 
 Video URL: https://www.youtube.com/watch?v=u0Fe2l1qBAI
 
@@ -19,6 +19,10 @@ Transcript word count: 18181
 Short transcript excerpt:
 
 > What's up, guys? Welcome back to the NextGen Sales Leader podcast. My name is Ben Reed and I'm here with Bill Stithopoulos. He is
+
+Collection rows:
+
+- Bill Stathopoulos: rank 1, status caption_found_youtube_transcript_api, 18181 words
 
 Notes:
 

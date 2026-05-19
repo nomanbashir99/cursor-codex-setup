@@ -1,6 +1,6 @@
 # Guillaume Moubeche. Lemlist. How we grew from 0 to $250K ARR in 1 year without investments. SN 2019
 
-Expert: Guillaume Moubeche
+Associated expert(s): Guillaume Moubeche
 
 Video URL: https://www.youtube.com/watch?v=1ceYB2XXbDk
 
@@ -19,6 +19,10 @@ Transcript word count: 0
 Short transcript excerpt:
 
 > No transcript excerpt available.
+
+Collection rows:
+
+- Guillaume Moubeche: rank 2, status caption_fetch_failed, 0 words
 
 Notes:
 

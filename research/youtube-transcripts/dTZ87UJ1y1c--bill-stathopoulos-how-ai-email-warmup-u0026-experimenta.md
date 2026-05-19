@@ -1,6 +1,6 @@
 # Bill Stathopoulos: How AI, Email Warmup \u0026 Experimentation Are Changing Cold Email
 
-Expert: Bill Stathopoulos
+Associated expert(s): Bill Stathopoulos
 
 Video URL: https://www.youtube.com/watch?v=dTZ87UJ1y1c
 
@@ -19,6 +19,10 @@ Transcript word count: 3902
 Short transcript excerpt:
 
 > Folks, it is such a pleasure to be joined by Bill Stethopoulos, co-founder and CEO of Sales Captain, a B2B marketing and GTM firm.
+
+Collection rows:
+
+- Bill Stathopoulos: rank 3, status caption_found_youtube_transcript_api, 3902 words
 
 Notes:
 

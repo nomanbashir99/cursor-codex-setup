@@ -1,6 +1,6 @@
 # Flip The Script: Emails (ft. Becc Holland)
 
-Expert: Becc Holland
+Associated expert(s): Becc Holland
 
 Video URL: https://www.youtube.com/watch?v=VeiQFhr-1Oc
 
@@ -19,6 +19,10 @@ Transcript word count: 0
 Short transcript excerpt:
 
 > No transcript excerpt available.
+
+Collection rows:
+
+- Becc Holland: rank 4, status caption_fetch_failed, 0 words
 
 Notes:
 

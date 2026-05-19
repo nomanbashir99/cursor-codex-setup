@@ -1,6 +1,6 @@
 # Losing our biggest customer  | lemroad #5
 
-Expert: Guillaume Moubeche
+Associated expert(s): Guillaume Moubeche
 
 Video URL: https://www.youtube.com/watch?v=IdJFUDNddv4
 
@@ -19,6 +19,10 @@ Transcript word count: 0
 Short transcript excerpt:
 
 > No transcript excerpt available.
+
+Collection rows:
+
+- Guillaume Moubeche: rank 4, status caption_fetch_failed, 0 words
 
 Notes:
 

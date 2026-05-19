@@ -1,6 +1,6 @@
 # Episode 22: Top SDR Florin Tatulea - Actionable Prospecting Tips to Get More Meetings (July 18 2017)
 
-Expert: Florin Tatulea
+Associated expert(s): Florin Tatulea
 
 Video URL: https://www.youtube.com/watch?v=noRavDnWhr8
 
@@ -19,6 +19,10 @@ Transcript word count: 9084
 Short transcript excerpt:
 
 > [Music] you're listening to the sales success stories podcast where we deconstruct world-class sales performers to provide insights and strategies to help you improve
+
+Collection rows:
+
+- Florin Tatulea: rank 3, status caption_found_youtube_transcript_api, 9084 words
 
 Notes:
 

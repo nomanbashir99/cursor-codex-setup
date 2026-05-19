@@ -1,6 +1,6 @@
 # Cold Email Secrets from Outbound Expert Florin Tatulea
 
-Expert: Florin Tatulea
+Associated expert(s): Florin Tatulea
 
 Video URL: https://www.youtube.com/watch?v=aaFjjDBBEzk
 
@@ -19,6 +19,10 @@ Transcript word count: 3613
 Short transcript excerpt:
 
 > foreign welcome to another episode of the getting to Club podcast this is the show where in 15 minutes or less you get to
+
+Collection rows:
+
+- Florin Tatulea: rank 1, status caption_found_youtube_transcript_api, 3613 words
 
 Notes:
 

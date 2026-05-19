@@ -1,6 +1,6 @@
 # The Best Cold Calling Strategy for 2026
 
-Expert: Jason Bay
+Associated expert(s): Jason Bay
 
 Video URL: https://www.youtube.com/watch?v=ibsqb3M9rT0
 
@@ -19,6 +19,10 @@ Transcript word count: 3420
 Short transcript excerpt:
 
 > Today, I'm going to show you hands down the best cold calling strategy to use in 2026 to book hundreds of meetings with qualified
+
+Collection rows:
+
+- Jason Bay: rank 2, status caption_found_youtube_transcript_api, 3420 words
 
 Notes:
 

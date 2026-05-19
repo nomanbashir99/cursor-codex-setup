@@ -1,6 +1,6 @@
 # 2018: Plato - A/B tested AltiSales, Proactivity, Feels like an interim VP of Sales (startup)
 
-Expert: Tito Bohrt
+Associated expert(s): Tito Bohrt
 
 Video URL: https://www.youtube.com/watch?v=8DQ6oLXp9RA
 
@@ -19,6 +19,10 @@ Transcript word count: 0
 Short transcript excerpt:
 
 > No transcript excerpt available.
+
+Collection rows:
+
+- Tito Bohrt: rank 4, status caption_fetch_failed, 0 words
 
 Notes:
 

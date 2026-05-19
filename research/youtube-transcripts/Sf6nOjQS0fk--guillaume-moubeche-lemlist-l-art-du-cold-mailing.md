@@ -1,6 +1,6 @@
 # Guillaume Moubeche @ lemlist - l'art du cold mailing
 
-Expert: Guillaume Moubeche
+Associated expert(s): Guillaume Moubeche
 
 Video URL: https://www.youtube.com/watch?v=Sf6nOjQS0fk
 
@@ -19,6 +19,10 @@ Transcript word count: not available
 Short transcript excerpt:
 
 > No transcript excerpt available.
+
+Collection rows:
+
+- Guillaume Moubeche: rank 3, status no_caption_tracks, not available words
 
 Notes:
 

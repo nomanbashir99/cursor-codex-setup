@@ -1,6 +1,6 @@
 # Cold Email Showdown: Rookie Sales Rep vs 10-Year Director
 
-Expert: Florin Tatulea
+Associated expert(s): Florin Tatulea
 
 Video URL: https://www.youtube.com/watch?v=Ag-6pB51s5o
 
@@ -19,6 +19,10 @@ Transcript word count: 7350
 Short transcript excerpt:
 
 > You think you got this one? >> You should be scared. [laughter] >> Using trenchy PT. Okay. >> Yeah, this is my secret sauce.
+
+Collection rows:
+
+- Florin Tatulea: rank 4, status caption_found_youtube_transcript_api, 7350 words
 
 Notes:
 

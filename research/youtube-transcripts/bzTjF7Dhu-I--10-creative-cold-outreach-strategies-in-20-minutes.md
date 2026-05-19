@@ -1,6 +1,6 @@
 # 10 Creative Cold Outreach Strategies in 20 Minutes
 
-Expert: Michael Maximoff
+Associated expert(s): Michael Maximoff
 
 Video URL: https://www.youtube.com/watch?v=bzTjF7Dhu-I
 
@@ -19,6 +19,10 @@ Transcript word count: 0
 Short transcript excerpt:
 
 > No transcript excerpt available.
+
+Collection rows:
+
+- Michael Maximoff: rank 2, status caption_fetch_failed, 0 words
 
 Notes:
 

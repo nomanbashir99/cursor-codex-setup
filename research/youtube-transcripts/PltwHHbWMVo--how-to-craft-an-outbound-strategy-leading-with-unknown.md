@@ -1,6 +1,6 @@
 # How to Craft an Outbound Strategy Leading with Unknown Problems - Becc Holland from Flip the Script
 
-Expert: Becc Holland
+Associated expert(s): Becc Holland
 
 Video URL: https://www.youtube.com/watch?v=PltwHHbWMVo
 
@@ -19,6 +19,10 @@ Transcript word count: 2554
 Short transcript excerpt:
 
 > okay we are here with Beck Holland and we're going to be talking about how to craft an outbound strategy leading with the unknown
+
+Collection rows:
+
+- Becc Holland: rank 1, status caption_found_youtube_transcript_api, 2554 words
 
 Notes:
 

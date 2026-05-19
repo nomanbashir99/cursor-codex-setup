@@ -1,6 +1,6 @@
 # Full 18-Minute Cold Calling Course (For SaaS Sales)
 
-Expert: Jason Bay
+Associated expert(s): Jason Bay
 
 Video URL: https://www.youtube.com/watch?v=m2z1tgfv8Kc
 
@@ -19,6 +19,10 @@ Transcript word count: 3726
 Short transcript excerpt:
 
 > [Music] the average rate of success in a cold call right now according to gong is 1.48% think about that for a second that
+
+Collection rows:
+
+- Jason Bay: rank 3, status caption_found_youtube_transcript_api, 3726 words
 
 Notes:
 

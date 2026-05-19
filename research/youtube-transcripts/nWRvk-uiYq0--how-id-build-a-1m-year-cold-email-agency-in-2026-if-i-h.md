@@ -1,6 +1,6 @@
 # How I’d Build a $1M/year Cold Email Agency in 2026 (If I Had to Start Over)
 
-Expert: Michel Lieben
+Associated expert(s): Michel Lieben
 
 Video URL: https://www.youtube.com/watch?v=nWRvk-uiYq0
 
@@ -19,6 +19,10 @@ Transcript word count: 2205
 Short transcript excerpt:
 
 > Just arrived in Barcelona. We're going to visit the Cold IQ office. I'm really excited. These guys are killing it on LinkedIn and they're
+
+Collection rows:
+
+- Michel Lieben: rank 4, status caption_found_youtube_transcript_api, 2205 words
 
 Notes:
 

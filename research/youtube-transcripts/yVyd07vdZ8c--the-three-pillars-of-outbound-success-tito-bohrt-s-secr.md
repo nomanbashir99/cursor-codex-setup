@@ -1,6 +1,6 @@
 # The Three Pillars of Outbound Success: Tito Bohrt's Secrets
 
-Expert: Tito Bohrt
+Associated expert(s): Tito Bohrt
 
 Video URL: https://www.youtube.com/watch?v=yVyd07vdZ8c
 
@@ -19,6 +19,10 @@ Transcript word count: 0
 Short transcript excerpt:
 
 > No transcript excerpt available.
+
+Collection rows:
+
+- Tito Bohrt: rank 1, status caption_fetch_failed, 0 words
 
 Notes:
 

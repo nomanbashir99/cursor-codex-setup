@@ -1,6 +1,6 @@
 # Outbound Prospecting Masterclass: Everything You Need to Book Meetings in 2026
 
-Expert: Jason Bay
+Associated expert(s): Jason Bay
 
 Video URL: https://www.youtube.com/watch?v=dDM80maP1N0
 
@@ -19,6 +19,10 @@ Transcript word count: 7552
 Short transcript excerpt:
 
 > So, if you're watching this video, you probably don't need to be sold on why you need to be doing more outbound right now,
+
+Collection rows:
+
+- Jason Bay: rank 1, status caption_found_youtube_transcript_api, 7552 words
 
 Notes:
 

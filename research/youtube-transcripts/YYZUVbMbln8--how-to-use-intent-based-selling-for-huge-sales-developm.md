@@ -1,6 +1,6 @@
 # How to Use Intent-Based Selling for Huge Sales Development Success (Florin Tatulea, Common Room)
 
-Expert: Florin Tatulea
+Associated expert(s): Florin Tatulea
 
 Video URL: https://www.youtube.com/watch?v=YYZUVbMbln8
 
@@ -19,6 +19,10 @@ Transcript word count: 5142
 Short transcript excerpt:
 
 > [Music] good morning everybody and welcome to this leadership episode of 30 minutes to president's Club my name is Arman fro and I'm here
+
+Collection rows:
+
+- Florin Tatulea: rank 2, status caption_found_youtube_transcript_api, 5142 words
 
 Notes:
 

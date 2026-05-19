@@ -1,6 +1,6 @@
 # The Best LinkedIn Cold Outreach Strategy For Agencies (2026)
 
-Expert: Jack Reamer
+Associated expert(s): Jack Reamer
 
 Video URL: https://www.youtube.com/watch?v=k3fCuTaBCcw
 
@@ -19,6 +19,10 @@ Transcript word count: 5074
 Short transcript excerpt:
 
 > I'm able to book 10 to 20 calls per month from my LinkedIn despite having a small following. Now, this video is going to
+
+Collection rows:
+
+- Jack Reamer: rank 4, status caption_found_youtube_transcript_api, 5074 words
 
 Notes:
 

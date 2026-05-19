@@ -1,6 +1,6 @@
 # Launch Your Business with ONE Cold Email
 
-Expert: Guillaume Moubeche
+Associated expert(s): Guillaume Moubeche
 
 Video URL: https://www.youtube.com/watch?v=XNcCkLdqjoc
 
@@ -19,6 +19,10 @@ Transcript word count: 0
 Short transcript excerpt:
 
 > No transcript excerpt available.
+
+Collection rows:
+
+- Guillaume Moubeche: rank 1, status caption_fetch_failed, 0 words
 
 Notes:
 
